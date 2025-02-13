@@ -146,4 +146,4 @@ expense-tracker/
 
 ## Support
 
-For support, email saibharadwaja18@gmail.com or open an issue in the repository.
+For support, email jaidheep333@gmail.com or open an issue in the repository.
